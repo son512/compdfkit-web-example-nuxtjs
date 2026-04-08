@@ -1,6 +1,6 @@
 {
   "name": "compdfkit-web-example-nuxtjs",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "Complete Nuxt.js example integrating ComPDF SDK for Web in a server-side rendered Vue.js application. View, annotate, edit, sign, and manage PDF documents with SSR support for annotations, form filling, and document navigation.",
   "main": "src/index.js",
   "scripts": {
